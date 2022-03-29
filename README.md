@@ -6,7 +6,7 @@
 - Gave an example and exhibited how the technique can be useful for dimensionality reduction and outlier detection
 
 ## [Deep Learning - Education Framework]
-- Implemented the educational framework (EDF), a deep learning framework, which is 150 lines of Python-NumPy
+- Implemented the educational framework (EDF), a deep learning framework, using Python-NumPy
 - Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
 - Explored how the learning rate and number of layers affect the performance of the neural network
 
