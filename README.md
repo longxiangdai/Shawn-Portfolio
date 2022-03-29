@@ -1,9 +1,14 @@
 # Shawn_Portfolio
 
-# [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/PCA-via-Matrix-Decomposition/blob/main/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
+## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/PCA-via-Matrix-Decomposition/blob/main/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
 - Provided the mathematical background of Principal Component Analysis
 - Showed how the principal components can be obtained via Singular Value Decomposition of the centered data matrix
 - Gave an example and exhibited how the technique can be useful for dimensionality reduction and outlier detection
+
+## [Deep Learning - Education Framework]
+- The educational framework (EDF) is 150 lines of Python-NumPy that implement a deep learning framework
+- Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
+- Explored how the learning rate and number of layers affect the performance of the neural network
 
 ## Welcome to GitHub Pages
 
