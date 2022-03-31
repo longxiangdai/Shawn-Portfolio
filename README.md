@@ -45,7 +45,7 @@
 <html>
 <head>
 <style>
-figcaption { 
+caption { 
   display: table-caption;
   text-align: center;
 }
