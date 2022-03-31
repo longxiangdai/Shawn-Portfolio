@@ -33,9 +33,9 @@
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
 <p align="center">
-<figure>
+<figure class="image">
   <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>{{ include.description }}</figcaption>
 </figure>
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p> 
