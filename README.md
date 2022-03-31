@@ -10,15 +10,18 @@
 - Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
 - Explored how the learning rate and number of layers affect the performance of the neural network
 
-## [Hidden Markov Models: Robot Localization]
+## [Robot Localization (Hidden Markov Models)]
 - Developed a hidden Markov model to estimate the trajectory of a wheeled robot that moves over rooms
 - Used the Baum-Welch algorithm to estimate the transition, observation, and prior probabilities from observations
 - Implemented the Viterbi algorithm to identify the most likely sequence of robot locations based upon the corresponding of observations
 
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization.PNG" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization%20Data%20Log%20Likelihood.png" width="400"/>
-![](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization.PNG) | ![](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization%20Data%20Log%20Likelihood.png)
-# 
 
+# [Robot Localization (Extended Kalman Filter)]
+- Developed a vacuum cleaning robot and estimate its position and orientation in a room in order to be more efficient and precise at vacuuming
+- Implemented an EKF to estimate the robot's trajectory based upon the control (forward distance and change in orientation) and measurement data from a sensor placed on the floor of the room that the robot is vacuuming
+- Visualized the robot's estimated and ground-truth trajectories
+![]("https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKF%20robot.png")
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/longxiangdai/Shawn-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
