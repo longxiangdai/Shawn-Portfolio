@@ -21,7 +21,9 @@
 - Developed a vacuum cleaning robot and estimate its position and orientation in a room in order to be more efficient and precise at vacuuming
 - Implemented an EKF to estimate the robot's trajectory based upon the control (forward distance and change in orientation) and measurement data from a sensor placed on the floor of the room that the robot is vacuuming
 - Visualized the robot's estimated and ground-truth trajectories
+
 ![]("https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKF%20robot%20localization.PNG")
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/longxiangdai/Shawn-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
