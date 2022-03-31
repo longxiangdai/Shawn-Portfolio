@@ -37,13 +37,14 @@
 <figure>
   <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
   <figcaption style="text-align: center">Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
-<style>
+  <style>
     figcaption {
         display: block;
         text-align: center;
     }
-</style>
+  </style>
+</figure>
+
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p> 
 
