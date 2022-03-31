@@ -33,16 +33,37 @@
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
 
+<p align="center">
+<figure>
+  <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
+</p> 
+
+
+<p align = "center">
+<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
+<p align = "center">
+<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
 
 <div id="images">
-    <figure>
-        <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="300" height="300" alt="">
-        <figcaption>this is text</figcaption>
-    </figure>
-    <figure>
-        <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="300" height="300" alt="">
-        <figcaption>this is also text</figcaption>
-    </figure>
+  <div class="half">
+    <img class="gunimage" border="0" alt="idk" src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif">
+    <p>this is text</p>
+  </div>
+  <div class="half">
+    <img class="gunimage" border="0" alt="idk" src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif">
+    <p>this is also text</p>
+  </div>
 </div>
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
