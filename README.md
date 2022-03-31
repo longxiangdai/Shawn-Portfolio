@@ -1,15 +1,5 @@
 # Shawn_Portfolio
 
-## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
-- Provided the mathematical background of Principal Component Analysis
-- Showed how the principal components can be obtained via Singular Value Decomposition of the centered data matrix
-- Gave an example and exhibited how the technique can be useful for dimensionality reduction and outlier detection
-
-## [Deep Learning - Education Framework]
-- Implemented the educational framework (EDF), a deep learning framework, using Python-NumPy
-- Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
-- Explored how the learning rate and number of layers affect the performance of the neural network
-
 ## [Robot Localization: Hidden Markov Models (HMM)]
 - Developed a hidden Markov model to estimate the trajectory of a wheeled robot that moves over rooms
 - Used the Baum-Welch algorithm to estimate the transition, observation, and prior probabilities from observations
@@ -41,6 +31,17 @@
 <p align="center">
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
 </p> 
+
+## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
+- Provided the mathematical background of Principal Component Analysis
+- Showed how the principal components can be obtained via Singular Value Decomposition of the centered data matrix
+- Gave an example and exhibited how the technique can be useful for dimensionality reduction and outlier detection
+
+## [Deep Learning - Education Framework]
+- Implemented the educational framework (EDF), a deep learning framework, using Python-NumPy
+- Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
+- Explored how the learning rate and number of layers affect the performance of the neural network
+
 
 ## Welcome to GitHub Pages
 
