@@ -43,13 +43,13 @@
 
 
 <p align = "center">
-<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif">
+<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
 </p>
 <p align = "center">
 Fig.1 - 4K Mountains Wallpaper
 </p>
 <p align = "center">
-<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif">
+<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p>
 <p align = "center">
 Fig.1 - 4K Mountains Wallpaper
