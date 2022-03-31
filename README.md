@@ -35,7 +35,7 @@
 <p align="center">
 <figure class="image">
   <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
-  <figcaption>{{ include.description }}</figcaption>
+  <figcaption>include.description </figcaption>
 </figure>
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p> 
