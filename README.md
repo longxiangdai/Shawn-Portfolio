@@ -42,10 +42,27 @@
 </p> 
 
 
-<table class="image">
-<caption align="bottom">caption text</caption>
-<tr><td><img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif"></td></tr>
-</table>
+<html>
+<head>
+<style>
+figcaption { 
+  display: table-caption;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<p>A caption element is displayed like this:</p>
+<figure>
+  <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+<p>Change the default CSS settings to see the effect.</p>
+
+</body>
+</html>
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
 - Provided the mathematical background of Principal Component Analysis
