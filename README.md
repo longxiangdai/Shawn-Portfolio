@@ -55,14 +55,16 @@ Fig.1 - 4K Mountains Wallpaper
 Fig.1 - 4K Mountains Wallpaper
 </p>
 
-<figure>
-    <img src='https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif' width="300" alt='missing' />
-    <figcaption>Caption goes here</figcaption>
-</figure>
-<figure>
-    <img src='https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif' width="300" alt='missing' />
-    <figcaption>Caption goes here</figcaption>
-</figure>
+<div id="images">
+    <figure>
+        <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="50" height="50" alt="">
+        <figcaption>this is text</figcaption>
+    </figure>
+    <figure>
+        <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="50" height="50" alt="">
+        <figcaption>this is also text</figcaption>
+    </figure>
+</div>
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
 - Provided the mathematical background of Principal Component Analysis
