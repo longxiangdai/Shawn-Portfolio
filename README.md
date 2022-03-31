@@ -30,7 +30,7 @@
 - Tested the robot in three different environments (simple world, loops world, and rooms world) and showed that the model performs well without knowing the robot's initial pose
 
 <p align="center">
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/PF.gif" width="350"/>
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/PF.gif" width="300"/>
 </p> 
 
 ## Welcome to GitHub Pages
