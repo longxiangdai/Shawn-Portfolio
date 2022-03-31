@@ -42,10 +42,12 @@
 </p> 
 
 
-<figure>
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
-</figure>
+<p align = "center">
+<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif">
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
 - Provided the mathematical background of Principal Component Analysis
