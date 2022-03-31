@@ -27,8 +27,11 @@
 ## [Robot Localization: EKF + Particle Filter]
 - Improved the EKF and better estimate the pose of the vacuum cleaner by replacing the seneor placed on the ceiling with a LIDAR sensor that records the range and bearing as the robot navigates
 - Implemented a standard particle filter that samples from the motion model, reweights the particles according to the observation likelihood, and resamples new particles according to their weights
-- Tested the robot in three different environments (simple world, loops world, and rooms world) and showed that the model performs well even without knowing the robot's initial pose
+- Tested the robot in three different environments (simple world, loops world, and rooms world) and showed that the model performs well without knowing the robot's initial pose
 
+<p align="center">
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/PF.gif" width="350"/>
+</p> 
 
 ## Welcome to GitHub Pages
 
