@@ -33,7 +33,7 @@
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
 <p align="center">
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/> <figcaption>This is my caption text.</figcaption>
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p> 
 
