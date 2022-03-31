@@ -42,7 +42,7 @@
 </p> 
 
 <div style="align: left; text-align:center;">
-    <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" />
+    <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" height="31px" width="200px" />
     <div class="caption">Some caption text</div>
 </div>
 .caption {
