@@ -15,7 +15,7 @@
 - Used the Baum-Welch algorithm to estimate the transition, observation, and prior probabilities from observations
 - Implemented the Viterbi algorithm to identify the most likely sequence of robot locations based upon the corresponding of observations
 
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization.PNG" width="500"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization%20Data%20Log%20Likelihood.png" width="500"/>
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization.PNG" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization%20Data%20Log%20Likelihood.png" width="400"/>
 ![](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization.PNG) | ![](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization%20Data%20Log%20Likelihood.png)
 # 
 
