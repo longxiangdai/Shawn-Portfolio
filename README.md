@@ -32,39 +32,18 @@
 - Added landmarks to the map and used the sensor (a LIDAR with maximum range of 4 m and an angular field-of-view of 180 degrees) to update the trajectories of the robot and the locations of the landmarks
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
-
-<p align="center">
-<figure>
-  <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
-</p> 
-
-
 <p align = "center">
 <img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
 </p>
 <p align = "center">
-Fig.1 - 4K Mountains Wallpaper
+Fig.1 - EKF SLAM Small Noise
 </p>
 <p align = "center">
 <img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p>
 <p align = "center">
-Fig.1 - 4K Mountains Wallpaper
+Fig.1 - EKF SLAM Large Noise
 </p>
-
-<div id="images">
-  <div class="half">
-    <img class="gunimage" border="0" alt="idk" src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif">
-    <p>this is text</p>
-  </div>
-  <div class="half">
-    <img class="gunimage" border="0" alt="idk" src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif">
-    <p>this is also text</p>
-  </div>
-</div>
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
 - Provided the mathematical background of Principal Component Analysis
