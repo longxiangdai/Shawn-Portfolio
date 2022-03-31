@@ -34,7 +34,7 @@
 </p> 
 
 ## [Robot Localization: EKF + Simultaneously Localization and Mapping (SLAM)]
-- Implemented the SLAM that constructs and updates a map of an unknown environment while simultaneously keeping track of the robot's location within it
+- Implemented the SLAM algorithm that constructs and updates a map of an unknown environment while simultaneously keeping track of the robot's location within it
 - Added landmarks to the map and used the sensor (a LIDAR with maximum range of 4 m and an angular field-of-view of 180 degrees) to update the trajectories of the robot and the locations of the landmarks
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
