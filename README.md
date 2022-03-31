@@ -14,7 +14,9 @@
 - Implemented an EKF to estimate the robot's trajectory based upon the control (forward distance and change in orientation) and measurement data from a sensor placed on the floor of the room that the robot is vacuuming
 - Visualized the robot's estimated (#red) and ground-truth (#green) trajectories
 
+<p align="center">
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKF%20robot%20localization.gif" width="350"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKF%20robot%20localization%20error.PNG" width="400"/>
+</p>
 
 ## [Robot Localization: EKF + Particle Filter]
 - Improved the EKF and better estimate the pose of the vacuum cleaner by replacing the seneor placed on the ceiling with a LIDAR sensor that records the range and bearing as the robot navigates
