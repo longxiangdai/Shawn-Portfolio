@@ -32,10 +32,24 @@
 - Added landmarks to the map and used the sensor (a LIDAR with maximum range of 4 m and an angular field-of-view of 180 degrees) to update the trajectories of the robot and the locations of the landmarks
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
+figure {
+  position: relative;
+}
+figure figcaption {
+  color: white;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: right;
+  padding: 15px;
+  font-style: oblique;
+  font-size: smaller;
+  mix-blend-mode: soft-light;
+}
 <p align="center">
-<figure class="image">
+<figure>
   <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/>
-  <figcaption class="figure-caption text-center">Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure>
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p> 
