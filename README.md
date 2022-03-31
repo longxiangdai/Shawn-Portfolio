@@ -56,11 +56,11 @@ Fig.1 - 4K Mountains Wallpaper
 </p>
 
 <figure>
-    <img src='https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif' alt='missing' />
+    <img src='https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif' width="300" alt='missing' />
     <figcaption>Caption goes here</figcaption>
 </figure>
 <figure>
-    <img src='https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif' alt='missing' />
+    <img src='https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif' width="300" alt='missing' />
     <figcaption>Caption goes here</figcaption>
 </figure>
 
