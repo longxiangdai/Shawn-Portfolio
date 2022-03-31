@@ -22,7 +22,7 @@
 - Implemented an EKF to estimate the robot's trajectory based upon the control (forward distance and change in orientation) and measurement data from a sensor placed on the floor of the room that the robot is vacuuming
 - Visualized the robot's estimated and ground-truth trajectories
 <p align="center">
-  <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKF%20robot%20localization.PNG" />
+  <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKF%20robot%20localization.PNG" width="400"/>
 </p>
 
 ## Welcome to GitHub Pages
