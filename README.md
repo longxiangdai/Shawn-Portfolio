@@ -5,7 +5,9 @@
 - Used the Baum-Welch algorithm to estimate the transition, observation, and prior probabilities from observations
 - Implemented the Viterbi algorithm to identify the most likely sequence of robot locations based upon the corresponding of observations
 
+<p align="center">
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization.PNG" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/HMM%20robot%20localization%20Data%20Log%20Likelihood.png" width="400"/>
+</p> 
 
 ## [Robot Localization: Extended Kalman Filter (EKF)]
 - Developed a vacuum cleaning robot and estimate its position and orientation in a room in order to be more efficient and precise at vacuuming
