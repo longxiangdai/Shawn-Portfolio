@@ -42,14 +42,10 @@
 </p> 
 
 <div style="align: left; text-align:center;">
-    <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" height="31px" width="200px" />
-    <div class="caption">Some caption text</div>
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif"/>
+<span style="display:block;">Some caption text</span>
 </div>
 
-.caption {
-    width: 200px;
-    text-align: center;
-}
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
 - Provided the mathematical background of Principal Component Analysis
 - Showed how the principal components can be obtained via Singular Value Decomposition of the centered data matrix
