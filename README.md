@@ -44,7 +44,7 @@
 
 <table class="image">
 <caption align="bottom">caption text</caption>
-<tr><td><img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif" width="400"/></td></tr>
+<tr><td><img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif"></td></tr>
 </table>
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
