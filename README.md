@@ -23,9 +23,13 @@
 - Implemented a standard particle filter that samples from the motion model, reweights the particles according to the observation likelihood, and resamples new particles according to their weights
 - Tested the robot in three different environments (simple world, loops world, and rooms world) and showed that the model performs well without knowing the robot's initial pose
 
-<p align="center">
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/PF.gif" width="300"/>
-</p> 
+
+<p align = "center">
+<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/PF.gif" width="300"/>
+</p>
+<p align = "center">
+Fig. - EKF Particle Filter
+</p>
 
 ## [Robot Localization: EKF + Simultaneously Localization and Mapping (SLAM)]
 - Implemented the SLAM algorithm that constructs and updates a map of an unknown environment while simultaneously keeping track of the robot's location within it
@@ -42,7 +46,7 @@ Fig.1 - EKF SLAM Small Noise
 <img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif" width="400"/>
 </p>
 <p align = "center">
-Fig.1 - EKF SLAM Large Noise
+Fig.2 - EKF SLAM Large Noise
 </p>
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
