@@ -43,6 +43,12 @@
 
 
 <p align = "center">
+<img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM.gif">
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
+<p align = "center">
 <img src = "https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKFSLAM2.gif">
 </p>
 <p align = "center">
