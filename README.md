@@ -53,7 +53,7 @@ Fig.2 - EKF SLAM Large Noise
 # 2. Reinforcement Learning
 ## 2.1 Navigating in Gridworld using Reinforcement Learning algorithms
 - Implemented the SARSA and Q-Learning with decayed epsilon-greedy policy to solve the grid world game
-- Ensured that the agent performed properly and could reach the goal state when starting from different positions and in different scenaires (e.g. with diagonal moves or crosswind upward through the middle of the grid)
+- Ensured that the agent performed properly and could reach the goal state when starting from different positions and in different scenaires (e.g. with diagonal moves when there is a crosswind upward through the middle of the grid)
 
 <p align="center">
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/Optimal%20Policy.PNG" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/Optimal%20Path.PNG" width="400"/>
