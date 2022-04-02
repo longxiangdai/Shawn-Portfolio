@@ -63,7 +63,7 @@ Fig.2 - EKF SLAM Large Noise
 - Implemented a Deep-Q-Network (DQN) for the CartPole and for the MountainCar OpenAI Gym environments
 - Optimized for the hyper-parameters to get higher scores and shorter training times
 <p align="center">
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/CartPole.gif" width="400"/>
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/CartPole.gif" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/MountainCar.gif" width="400"/>
 </p> 
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
