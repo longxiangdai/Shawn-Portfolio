@@ -51,7 +51,7 @@ Fig.2 - EKF SLAM Large Noise
 </p>
 
 # 2. Reinforcement Learning
-## 2.1 Navigating in Gridworld using Reinforcement Learning algorithms
+## 2.1 Policy and Value Iteration for Gridworld
 - Implemented the SARSA and Q-Learning with decayed epsilon-greedy policy to solve the grid world game
 - Ensured that the agent performed properly and could reach the goal state when starting from different positions and in different scenaires (e.g. with diagonal moves when there is a crosswind upward through the middle of the grid)
 
@@ -59,11 +59,19 @@ Fig.2 - EKF SLAM Large Noise
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/Optimal%20Policy.PNG" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/Optimal%20Path.PNG" width="400"/>
 </p> 
 
-## 2.2 
+## 2.2 DQN for CartPole and MountainCar
 - Implemented a Deep-Q-Network (DQN) for the CartPole and for the MountainCar OpenAI Gym environments
 - Optimized for the hyper-parameters to get higher scores and shorter training times
 <p align="center">
 <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/CartPole.gif" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/MountainCar.gif" width="400"/>
+</p> 
+
+## 2.3 Policy Gradient for LunarLander
+- Trained an agent to correctly land on the landing pad with Policy Gradient algorithm.
+- Showed that the agent started to learn how to fly after several hundred episodes and and land in the landing pad eventually.
+
+<p align="center">
+<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/LunarLander.gif" width="400"/> <img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/LunarLander%20Results.PNG" width="400"/>
 </p> 
 
 ## [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
