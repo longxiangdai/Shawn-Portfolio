@@ -1,6 +1,6 @@
 # Shawn_Portfolio
 
-# 1. Robot Localization:
+## 1. Robot Localization:
 ### 1.1 Hidden Markov Models (HMM)
 - Developed a hidden Markov model to estimate the trajectory of a wheeled robot that moves over rooms
 - Used the Baum-Welch algorithm to estimate the transition, observation, and prior probabilities from observations
@@ -50,7 +50,7 @@ Fig.1 - EKF SLAM Small Noise
 Fig.2 - EKF SLAM Large Noise
 </p>
 
-# 2. Reinforcement Learning
+## 2. Reinforcement Learning
 ### 2.1 Policy and Value Iteration for Gridworld
 - Implemented the SARSA and Q-Learning with decayed epsilon-greedy policy to solve the grid world game
 - Ensured that the agent performed properly and could reach the goal state when starting from different positions and in different scenaires (e.g. with diagonal moves when there is a crosswind upward through the middle of the grid)
@@ -79,16 +79,16 @@ Fig.2 - EKF SLAM Large Noise
 - The training process involves observing stock price change, taking an action and reward's calculation to have the agent adjusting its strategy accordingly
 - By interacting with the environment, the trading agent derives a trading strategy with the maximized rewards as time proceeds
 
-# 3. [Applying Tree Based Algorithms for Stock Trading]
+## 3. [Applying Tree Based Algorithms for Stock Trading]
 - Used the tree based algorithms (decision tree, bagging tree, random forest, gradient boosting, etc.) to construct algorithmic trading strategies that outperforms the benchmark
 - Developed a feature importance technique that dynamically selects an optimal set of features every quarter to optimize the profit of the strategy
 - Applied the optuna to automatically optimize the hyperparameters of the model to achieve better performance 
 
-# 4. [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
+## 4. [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
 - Analyzed the demographic features of different countries and showed that the Principal Component Analysis can be useful for dimensionality reduction and outlier detection
 - Provided the mathematical background of Principal Component Analysis and proved that it can be obtained via Singular Value Decomposition of the centered data matrix
 
-# 5. [Deep Learning - Education Framework]
+## 5. [Deep Learning - Education Framework]
 - Implemented the educational framework (EDF), a deep learning framework, using Python-NumPy
 - Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
 - Explored how the learning rate and number of layers affect the performance of the neural network
