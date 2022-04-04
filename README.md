@@ -40,7 +40,7 @@ Fig.1 - EKF SLAM Small Noise
 Fig.2 - EKF SLAM Large Noise
 </p>
 
-<center class="half"> <img src="images/EKFSLAM.gif" width="300"/><img src="images/EKFSLAM2.gif" width="300"/></center>
+<center class="half"> <img src="images/EKFSLAM.gif" width="400"/><img src="images/EKFSLAM2.gif" width="400"/></center>
 <p align = "center">Fig.1 - EKF SLAM Small Noise &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Fig.2 - EKF SLAM Large Noise</p>
 
 ## 2. Reinforcement Learning
