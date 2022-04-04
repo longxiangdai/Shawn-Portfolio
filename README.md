@@ -19,11 +19,11 @@
 
 <div class="row">
   <div class="column">
-    <img src="images/EKFSLAM.gif" alt="Snow" style="width:100%">
+    <img src="images/EKFSLAM.gif" alt="Snow" style="width:5%">
     <figcaption>Fig.1 - Trulli</figcaption>
   </div>
   <div class="column">
-    <img src="images/EKFSLAM2.gif" alt="Forest" style="width:100%">
+    <img src="images/EKFSLAM2.gif" alt="Forest" style="width:50%">
     <figcaption>Fig.2 - Puglia</figcaption>
   </div>
 </div>
