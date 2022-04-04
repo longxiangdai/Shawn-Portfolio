@@ -34,7 +34,7 @@ Fig. - EKF Particle Filter
 Fig.1 - EKF SLAM Small Noise
 </p>
 <p align = "center">
-<img src = "images/EKFSLAM2.gif" width="400"/>
+<img src = "images/EKFSLAM2.gif" width="400" title="test"/>
 </p>
 <p align = "center">
 Fig.2 - EKF SLAM Large Noise
