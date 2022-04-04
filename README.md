@@ -10,13 +10,6 @@
 <img src="images/EKF%20robot%20localization.gif" width="400"/> <img src="images/EKF%20robot%20localization%20error.PNG" width="400"/>
 </p>
 
-<figure>
-    <img src="images/EKFSLAM.gif">
-    <figcaption>An elephant at sunset</figcaption>
-    <img src="images/EKFSLAM2.gif">
-    <figcaption>An elephant at sunset</figcaption>
-</figure>
-
 <div class="row">
   <div class="column">
     <img src="images/EKFSLAM.gif" alt="Snow" style="width:50%">
