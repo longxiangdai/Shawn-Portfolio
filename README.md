@@ -19,7 +19,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="images/EKFSLAM.gif" alt="Snow" style="width:5%">
+    <img src="images/EKFSLAM.gif" alt="Snow" style="width:50%">
     <figcaption>Fig.1 - Trulli</figcaption>
   </div>
   <div class="column">
