@@ -40,8 +40,6 @@ Fig.1 - EKF SLAM Small Noise
 Fig.2 - EKF SLAM Large Noise
 </p>
 
-![alt-text-1](images/EKFSLAM.gif "aaasdsadsad") ![alt-text-2](images/EKFSLAM2.gif "bbbbbb")
-
 <center class="half"> <img src="images/EKFSLAM.gif" width="300"/><img src="images/EKFSLAM2.gif" width="300"/></center>
 <p align = "center">Fig.1 - EKF SLAM Small Noise          Fig.2 - EKF SLAM Large Noise</p>
 
