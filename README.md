@@ -61,12 +61,12 @@
 - Trained real-time style transform networks using Microsoft 2014 COCO dataset that has more than 80k images
 
 <p align = "center">
-<img src = "images/Workflow.png" width="400"/>
+<img src = "images/Workflow.png"/>
 </p>
 <p align = "center">EKF Particle Filter</p>
 
 <p align = "center">
-<img src = "StyleTransferrediImages.png" width="800"/>
+<img src = "images/StyleTransferrediImages.png"/>
 </p>
 <p align = "center">EKF Particle Filter</p>
 
