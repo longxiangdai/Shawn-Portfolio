@@ -17,6 +17,16 @@
     <figcaption>An elephant at sunset</figcaption>
 </figure>
 
+<div class="row">
+  <div class="column">
+    <img src="images/EKFSLAM.gif" alt="Snow" style="width:100%">
+    <figcaption>Fig.1 - Trulli</figcaption>
+  </div>
+  <div class="column">
+    <img src="images/EKFSLAM2.gif" alt="Forest" style="width:100%">
+    <figcaption>Fig.2 - Puglia</figcaption>
+  </div>
+</div>
 
 ### 1.2 EKF + Particle Filter
 - Improved the EKF to better estimate the pose of the vacuum cleaner by replacing the seneor placed on the ceiling with a LIDAR sensor that records the range and bearing as the robot navigates
