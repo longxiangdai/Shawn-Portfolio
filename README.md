@@ -7,7 +7,7 @@
 - Visualized the robot's estimated (#red) and ground-truth (#green) trajectories
 
 <p align="center">
-<img src="/Images/EKF%20robot%20localization.gif" width="350"/> <img src="/Images/EKF%20robot%20localization%20error.PNG" width="400"/>
+<img src="/Images/EKF robot localization.gif" width="350"/> <img src="/Images/EKF%20robot%20localization%20error.PNG" width="400"/>
 </p>
 
 ### 1.2 EKF + Particle Filter
