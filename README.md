@@ -71,7 +71,7 @@ Fig.2 - EKF SLAM Large Noise
 - The training process involves observing stock price change, taking an action and reward's calculation to have the agent adjusting its strategy accordingly
 - By interacting with the environment, the trading agent derives a trading strategy with the maximized rewards as time proceeds
 
-## 3. [Applying Tree Based Algorithms for Stock Trading]
+## 3. Applying Tree Based Algorithms for Stock Trading
 - Used the tree based algorithms (decision tree, bagging tree, random forest, gradient boosting, etc.) to construct algorithmic trading strategies that outperforms the benchmark
 - Developed a feature importance technique that dynamically selects an optimal set of features every quarter to optimize the profit of the strategy
 - Applied the optuna to automatically optimize the hyperparameters of the model to achieve better performance 
@@ -80,7 +80,7 @@ Fig.2 - EKF SLAM Large Noise
 - Analyzed the demographic features of different countries and showed that the Principal Component Analysis can be useful for dimensionality reduction and outlier detection
 - Provided the mathematical background of Principal Component Analysis and proved that it can be obtained via Singular Value Decomposition of the centered data matrix
 
-## 5. [Deep Learning - Education Framework]
+## 5. Deep Learning - Education Framework
 - Implemented the educational framework (EDF), a deep learning framework, using Python-NumPy
 - Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
 - Explored how the learning rate and number of layers affect the performance of the neural network
