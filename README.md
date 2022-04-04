@@ -21,7 +21,7 @@
 <img src = "images/PF.gif" width="350"/>
 </p>
 <p align = "center">
-Fig. - EKF Particle Filter
+EKF Particle Filter
 </p>
 
 ### 1.3 EKF + Simultaneously Localization and Mapping (SLAM)
