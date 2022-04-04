@@ -7,10 +7,9 @@
 - Visualized the robot's estimated (#red) and ground-truth (#green) trajectories
 
 <p align="center">
-<img src="Images/EKF%20robot%20localization.gif" width="350"/> <img src="Images/EKF%20robot%20localization%20error.PNG" width="400"/>
+<img src="Images/EKF%20robot%20localization.gif" width="350"/> <img src="Images/EKF%20robot%20localization%20error.PNG" width="350"/>
 </p>
 
-![image](1.PNG)
 
 ### 1.2 EKF + Particle Filter
 - Improved the EKF to better estimate the pose of the vacuum cleaner by replacing the seneor placed on the ceiling with a LIDAR sensor that records the range and bearing as the robot navigates
