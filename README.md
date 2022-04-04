@@ -1,15 +1,6 @@
 # Shawn_Portfolio
 
 ## 1. Robot Localization:
-### 1.1 Hidden Markov Models (HMM)
-- Developed a hidden Markov model to estimate the trajectory of a wheeled robot that moves over rooms
-- Used the Baum-Welch algorithm to estimate the transition, observation, and prior probabilities from observations
-- Implemented the Viterbi algorithm to identify the most likely sequence of robot locations based upon the corresponding of observations
-
-<p align="center">
-<img src="/Images/HMM%20robot%20localization.PNG" width="400"/> <img src="/Images/HMM%20robot%20localization%20Data%20Log%20Likelihood.png" width="400"/>
-</p> 
-
 ### 1.1 Extended Kalman Filter (EKF)
 - Developed a vacuum cleaning robot and estimate its position and orientation in a room in order to be more efficient and precise at vacuuming
 - Implemented an EKF to estimate the robot's trajectory based upon the control (forward distance and change in orientation) and measurement data from a sensor placed on the floor of the room that the robot is vacuuming
