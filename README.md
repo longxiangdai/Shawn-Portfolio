@@ -18,9 +18,7 @@
 <p align = "center">
 <img src = "images/PF.gif" width="400"/>
 </p>
-<p align = "center">
-Fig. - EKF Particle Filter
-</p>
+<p align = "center">EKF Particle Filter</p>
 
 ### 1.3 EKF + Simultaneously Localization and Mapping (SLAM)
 - Implemented the SLAM algorithm that constructs and updates a map of an unknown environment while simultaneously keeping track of the robot's location within it
