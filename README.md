@@ -7,7 +7,7 @@
 - Visualized the robot's estimated (#red) and ground-truth (#green) trajectories
 
 <p align="center">
-<img src="Images/EKF%20robot%20localization.gif" width="330"/> <img src="Images/EKF%20robot%20localization%20error.PNG" width="330"/>
+<img src="Images/EKF%20robot%20localization.gif" width="400"/> <img src="Images/EKF%20robot%20localization%20error.PNG" width="400"/>
 </p>
 
 
@@ -18,7 +18,7 @@
 
 
 <p align = "center">
-<img src = "Images/PF.gif" width="300"/>
+<img src = "images/PF.gif" width="400"/>
 </p>
 <p align = "center">
 Fig. - EKF Particle Filter
@@ -30,13 +30,13 @@ Fig. - EKF Particle Filter
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
 <p align = "center">
-<img src = "Images/EKFSLAM.gif" width="400"/>
+<img src = "images/EKFSLAM.gif" width="400"/>
 </p>
 <p align = "center">
 Fig.1 - EKF SLAM Small Noise
 </p>
 <p align = "center">
-<img src = "Images/EKFSLAM2.gif" width="400"/>
+<img src = "images/EKFSLAM2.gif" width="400"/>
 </p>
 <p align = "center">
 Fig.2 - EKF SLAM Large Noise
@@ -48,14 +48,14 @@ Fig.2 - EKF SLAM Large Noise
 - Ensured that the agent performed properly and could reach the goal state when starting from different positions and in different scenaires (e.g. with diagonal moves when there is a crosswind upward through the middle of the grid)
 
 <p align="center">
-<img src="Images/Optimal%20Policy.PNG" width="400"/> <img src="Images/Optimal%20Path.PNG" width="400"/>
+<img src="images/Optimal%20Policy.PNG" width="400"/> <img src="images/Optimal%20Path.PNG" width="400"/>
 </p> 
 
 ### 2.2 DQN for CartPole and MountainCar
 - Implemented a Deep-Q-Network (DQN) for the CartPole and for the MountainCar OpenAI Gym environments
 - Optimized for the hyper-parameters to get higher scores and shorter training times
 <p align="center">
-<img src="Images/CartPole.gif" width="400"/> <img src="Images/MountainCar.gif" width="400"/>
+<img src="images/CartPole.gif" width="400"/> <img src="images/MountainCar.gif" width="400"/>
 </p> 
 
 ### 2.3 Policy Gradient for LunarLander
@@ -63,7 +63,7 @@ Fig.2 - EKF SLAM Large Noise
 - Showed that the agent started to learn how to fly after several hundred episodes and and land in the landing pad eventually
 
 <p align="center">
-<img src="Images/LunarLander.gif" width="400"/> <img src="Images/LunarLander%20Results.PNG" width="400"/>
+<img src="images/LunarLander.gif" width="400"/> <img src="images/LunarLander%20Results.PNG" width="400"/>
 </p> 
 
 ### 2.4 Applying Reinforcement Learning for Stock Trading
