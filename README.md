@@ -10,14 +10,10 @@
 <img src="images/EKF%20robot%20localization.gif" width="400"/> <img src="images/EKF%20robot%20localization%20error.PNG" width="400"/>
 </p>
 
-figure{text-align: center; max-width: 40%; float:left; margin:0;padding: 10px;}
-figure img{width: 100%;}
-
 ### 1.2 EKF + Particle Filter
 - Improved the EKF to better estimate the pose of the vacuum cleaner by replacing the seneor placed on the ceiling with a LIDAR sensor that records the range and bearing as the robot navigates
 - Implemented a standard particle filter that samples from the motion model, reweights the particles according to the observation likelihood, and resamples new particles according to their weights
 - Tested the robot in three different environments (simple world, loops world, and rooms world) and showed that the model performs well without knowing the robot's initial pose
-
 
 <p align = "center">
 <img src = "images/PF.gif" width="400"/>
@@ -44,7 +40,7 @@ Fig.1 - EKF SLAM Small Noise
 Fig.2 - EKF SLAM Large Noise
 </p>
 
-<center class="half"> <img src="images/EKFSLAM.gif" width="200"/><img src="images/EKFSLAM2.gif" width="200"/> </center>
+<center class="half"> <img src="images/EKFSLAM.gif" width="200"/><figcaption>Fig.1 - EKF SLAM Small Noise</figcaption><img src="images/EKFSLAM2.gif" width="200"/><figcaption>Fig.2 - EKF SLAM Large Noise</figcaption></center>
 
 ## 2. Reinforcement Learning
 ### 2.1 Policy and Value Iteration for Gridworld
