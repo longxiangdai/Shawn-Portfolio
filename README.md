@@ -13,15 +13,6 @@
 figure{text-align: center; max-width: 40%; float:left; margin:0;padding: 10px;}
 figure img{width: 100%;}
 
-<figure>
-<img src=images/EKFSLAM.gif'/>
-    <figcaption align = "center"><b>Fig 2.5; Courtesy of Linear Algebra: Theory, Intuition, Code by Mike X Cohen</b></figcaption>
-</figure>
-<figure>
-<img src='images/EKFSLAM.gif'/>
-    <figcaption align = "center"><b>Fig 2.3; Courtesy of Linear Algebra: Theory, Intuition, Code by Mike X Cohen</b></figcaption>
-</figure>
-
 ### 1.2 EKF + Particle Filter
 - Improved the EKF to better estimate the pose of the vacuum cleaner by replacing the seneor placed on the ceiling with a LIDAR sensor that records the range and bearing as the robot navigates
 - Implemented a standard particle filter that samples from the motion model, reweights the particles according to the observation likelihood, and resamples new particles according to their weights
@@ -52,6 +43,8 @@ Fig.1 - EKF SLAM Small Noise
 <p align = "center">
 Fig.2 - EKF SLAM Large Noise
 </p>
+
+<center class="half"> <img src="images/EKFSLAM.gif" width="200"/><img src="images/EKFSLAM2.gif" width="200"/> </center>
 
 ## 2. Reinforcement Learning
 ### 2.1 Policy and Value Iteration for Gridworld
