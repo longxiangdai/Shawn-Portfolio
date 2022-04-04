@@ -13,8 +13,6 @@
 <figure>
     <img src="images/EKFSLAM.gif">
     <figcaption>An elephant at sunset</figcaption>
-</figure>
-<figure>
     <img src="images/EKFSLAM2.gif">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
