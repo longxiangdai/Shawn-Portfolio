@@ -41,7 +41,7 @@ Fig.2 - EKF SLAM Large Noise
 </p>
 
 <center class="half"> <img src="images/EKFSLAM.gif" width="400"/><img src="images/EKFSLAM2.gif" width="400"/></center>
-<p align = "center">Fig.1 - EKF SLAM Small Noise</p><p align = "center">Fig.2 - EKF SLAM Large Noise</p>
+<p align = "center">The left figure is EKF SLAM with small noise and the right figure is EKF SLAM with large noise</p>
 
 ## 2. Reinforcement Learning
 ### 2.1 Policy and Value Iteration for Gridworld
