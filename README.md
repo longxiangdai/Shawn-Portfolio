@@ -63,12 +63,12 @@
 <p align = "center">
 <img src = "images/Workflow.png"/>
 </p>
-<p align = "center">EKF Particle Filter</p>
+<p align = "center">An example of application workflow</p>
 
 <p align = "center">
 <img src = "images/StyleTransferrediImages.png"/>
 </p>
-<p align = "center">EKF Particle Filter</p>
+<p align = "center">Examples of style-transferred images by different models</p>
 
 ## 4. Applying Tree Based Algorithms for Stock Trading
 - Used the tree based algorithms (decision tree, bagging tree, random forest, gradient boosting, etc.) to construct algorithmic trading strategies that outperforms the benchmark
