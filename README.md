@@ -25,19 +25,6 @@
 - Added landmarks to the map and used the sensor (a LIDAR with maximum range of 4 m and an angular field-of-view of 180 degrees) to update the trajectories of the robot and the locations of the landmarks
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
-<p align = "center">
-<img src = "images/EKFSLAM.gif" width="400"/>
-</p>
-<p align = "center">
-Fig.1 - EKF SLAM Small Noise
-</p>
-<p align = "center">
-<img src = "images/EKFSLAM2.gif" width="400"/>
-</p>
-<p align = "center">
-Fig.2 - EKF SLAM Large Noise
-</p>
-
 <center class="half"> <img src="images/EKFSLAM.gif" width="400"/><img src="images/EKFSLAM2.gif" width="400"/></center>
 <p align = "center">The left figure is EKF SLAM with small noise and the right figure is EKF SLAM with large noise</p>
 
