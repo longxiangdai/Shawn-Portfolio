@@ -40,7 +40,7 @@ Fig.1 - EKF SLAM Small Noise
 Fig.2 - EKF SLAM Large Noise
 </p>
 
-![alt-text-1](images/EKFSLAM.gif "title-1") ![alt-text-2](images/EKFSLAM2.gif "title-2")
+![alt-text-1](images/EKFSLAM.gif "aaasdsadsad") ![alt-text-2](images/EKFSLAM2.gif "bbbbbb")
 
 <center class="half"> <img src="images/EKFSLAM.gif" width="300"/><figcaption>Fig.1 - EKF SLAM Small Noise</figcaption><img src="images/EKFSLAM2.gif" width="300"/><figcaption>Fig.2 - EKF SLAM Large Noise</figcaption></center>
 
