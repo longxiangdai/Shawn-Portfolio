@@ -7,7 +7,7 @@
 - Visualized the robot's estimated (#red) and ground-truth (#green) trajectories
 
 <p align="center">
-<img src="https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Images/EKF%20robot%20localization.gif" width="350"/> <img src="/Images/EKF%20robot%20localization%20error.PNG" width="400"/>
+<img src="Images/EKF%20robot%20localization.gif" width="350"/> <img src="Images/EKF%20robot%20localization%20error.PNG" width="400"/>
 </p>
 
 ![image](1.PNG)
