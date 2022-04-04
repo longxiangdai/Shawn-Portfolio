@@ -10,16 +10,17 @@
 <img src="images/EKF%20robot%20localization.gif" width="400"/> <img src="images/EKF%20robot%20localization%20error.PNG" width="400"/>
 </p>
 
-<div class="row">
-  <div class="column">
-    <img src="images/EKFSLAM.gif" alt="Snow" style="width:50%">
-    <figcaption>Fig.1 - Trulli</figcaption>
-  </div>
-  <div class="column">
-    <img src="images/EKFSLAM2.gif" alt="Forest" style="width:50%">
-    <figcaption>Fig.2 - Puglia</figcaption>
-  </div>
-</div>
+figure{text-align: center; max-width: 40%; float:left; margin:0;padding: 10px;}
+figure img{width: 100%;}
+
+<figure>
+<img src=images/EKFSLAM.gif'/>
+    <figcaption align = "center"><b>Fig 2.5; Courtesy of Linear Algebra: Theory, Intuition, Code by Mike X Cohen</b></figcaption>
+</figure>
+<figure>
+<img src='images/EKFSLAM.gif'/>
+    <figcaption align = "center"><b>Fig 2.3; Courtesy of Linear Algebra: Theory, Intuition, Code by Mike X Cohen</b></figcaption>
+</figure>
 
 ### 1.2 EKF + Particle Filter
 - Improved the EKF to better estimate the pose of the vacuum cleaner by replacing the seneor placed on the ceiling with a LIDAR sensor that records the range and bearing as the robot navigates
