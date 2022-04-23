@@ -63,7 +63,10 @@
 - Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
 - Explored how the learning rate and number of layers affect the performance of the neural network
 ## 3.2 Image Style Transferring Using Deep Learning
-- Trained real-time style transform networks using Microsoft 2014 COCO dataset that has more than 80k images
+- Trained real-time style transform networks on cloud GPUs using Microsoft 2014 COCO dataset (more than 80k images) that modified the style of an image while preserving its content
+- Combined with Mask-RCNN to detect and keep the main object while performing the style transformation
+- Improved the quality of the generated image by making several modifications on the original network such as VGG for down-sampling, blending loss, etc.
+
 
 <p align = "center">
 <img src = "images/Workflow.png"/>
