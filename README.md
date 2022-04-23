@@ -83,6 +83,6 @@
 - Applied the optuna to automatically optimize the hyperparameters of the model to achieve better performance 
 
 ## Project 5: Data Analytics
-## 5.1 [Principal Component Analysis (PCA) via Matrix Decomposition](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/PCA%20via%20Matrix%20Decomposition/Principal%20Component%20Analysis%20(PCA)%20via%20Matrix%20Decomposition.ipynb)
+## 5.1 Principal Component Analysis (PCA) via Matrix Decomposition
 - Analyzed the demographic features of different countries and showed that the Principal Component Analysis can be useful for dimensionality reduction and outlier detection
 - Provided the mathematical background of Principal Component Analysis and proved that it can be obtained via Singular Value Decomposition of the centered data matrix
