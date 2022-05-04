@@ -28,6 +28,12 @@
 <center class="half"> <img src="images/EKFSLAM.gif" width="400"/><img src="images/EKFSLAM2.gif" width="400"/></center>
 <p align = "center"><pre>EKF SLAM with small noise                         EKF SLAM with large noise</pre></p>
 
+<p align="center">
+  <img alt="Light" src="images/EKFSLAM.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="images/EKFSLAM2.gif" width="45%">
+</p>
+
 ## Project 2: Reinforcement Learning
 ### 2.1 Policy and Value Iteration for Gridworld
 - Implemented the SARSA and Q-Learning with decayed epsilon-greedy policy to solve the grid world game
