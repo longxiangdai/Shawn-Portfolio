@@ -94,6 +94,9 @@ trends, and then made predictions on the basis of each cluster
 - Collected tweets and performed sentiment analysis to generate a sentiment indicator for each
 stock in the S&P 500 index, and explored how it foretells the ups and downs of stocks
 
+<center class="half"> <img src="images/ML Trading1.gif" width="400"/><img src="images/ML Trading2.gif" width="400"/></center>
+<p align = "center">Backtesting Performance (Week over Week Prediction)                         Portfolio Cumulative Return (Quarter over Quarter Prediction)</p>
+
 ## Project 5: Data Analytics
 ## 5.1 Principal Component Analysis (PCA) via Matrix Decomposition
 - Analyzed the demographic features of different countries and showed that the Principal Component Analysis can be useful for dimensionality reduction and outlier detection
