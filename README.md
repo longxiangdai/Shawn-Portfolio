@@ -26,7 +26,7 @@
 - Visualized the position of the robot and map estimates along with uncertainty ellipses
 
 <center class="half"> <img src="images/EKFSLAM.gif" width="400"/><img src="images/EKFSLAM2.gif" width="400"/></center>
-<p align = "center">EKF SLAM with small noise                         EKF SLAM with large noise</p>
+<p align = "center"><pre>EKF SLAM with small noise                         EKF SLAM with large noise</pre></p>
 
 ## Project 2: Reinforcement Learning
 ### 2.1 Policy and Value Iteration for Gridworld
