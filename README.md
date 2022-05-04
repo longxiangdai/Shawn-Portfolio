@@ -102,7 +102,7 @@ stock in the S&P 500 index, and explored how it foretells the ups and downs of s
 <p align = "center">
 <img src = "images/ML Trading1.PNG"/>
 </p>
-<p align = "center">Backtesting Performance (Week over Week Prediction)</p>
+<p align = "center">Portfolio Cumulative Return (Week over Week Prediction)</p>
 
 <p align = "center">
 <img src = "images/ML Trading2.PNG"/>
