@@ -87,8 +87,7 @@
 
 ## [4.2 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities](https://github.com/zhangyongheng78/Using-ML-to-Integrate-Technical-and-Fundamental-Analysis-to-Identify-Trading-Opportunities)
 - Generated quarterly and daily fundamental, technical, and macroeconomic features from SimFin and FRED
-- Built predictive models to conduct fundamental analysis and make long-term predictions
-- Built predictive models to perform technical analysis and make short-term predictions
+- Built two types of predictive models that conduct fundamental analysis to make long-term predictions and perform technical analysis to make short-term predictions respectively
 - Applied clustering methods to identify stocks that have common financial conditions and
 trends, and then made predictions on the basis of each cluster
 - Collected tweets and performed sentiment analysis to generate a sentiment indicator for each
