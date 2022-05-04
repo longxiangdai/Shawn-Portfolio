@@ -85,8 +85,7 @@
 - Developed a feature importance technique that dynamically selects an optimal set of features every quarter to optimize the profit of the strategy
 - Applied the optuna to automatically optimize the hyperparameters of the model to achieve better performance 
 
-## 4.2 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities 
-![](https://github.com/zhangyongheng78/Using-ML-to-Integrate-Technical-and-Fundamental-Analysis-to-Identify-Trading-Opportunities)
+## 4.2 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities ![ML](https://github.com/zhangyongheng78/Using-ML-to-Integrate-Technical-and-Fundamental-Analysis-to-Identify-Trading-Opportunities)
 - Generated quarterly and daily fundamental, technical, and macroeconomic features from SimFin and FRED
 - Built predictive models to conduct fundamental analysis and make long-term predictions
 - Built predictive models to perform technical analysis and make short-term predictions
