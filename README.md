@@ -59,12 +59,12 @@
 - By interacting with the environment, the trading agent derives a trading strategy with the maximized rewards as time proceeds
 
 ## Project 3: Deep Learning
-## 3.1 Education Framework
+### 3.1 Education Framework
 - Implemented the educational framework (EDF), a deep learning framework, using Python-NumPy
 - Constructed the computation graph of a multi-layer perceptron (MLP) with one hidden layer
 - Explored how the learning rate and number of layers affect the performance of the neural network
 
-## [3.2 Image Style Transferring Using Deep Learning](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Style%20Transfer/Style%20Transfer%20Project.pdf)
+### [3.2 Image Style Transferring Using Deep Learning](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/Style%20Transfer/Style%20Transfer%20Project.pdf)
 - Trained real-time style transform networks on cloud GPUs using Microsoft 2014 COCO dataset (more than 80k images) that modified the style of an image while preserving its content
 - Combined with Mask-RCNN to detect and keep the main object while performing the style transformation
 - Improved the quality of the generated image by making several modifications on the original network such as VGG for down-sampling, blending loss, etc.
@@ -82,12 +82,12 @@
 
 
 ## Project 4: Machine Learning
-## 4.1 Applying Tree Based Algorithms for Stock Trading
+### 4.1 Applying Tree Based Algorithms for Stock Trading
 - Used the tree based algorithms (decision tree, bagging tree, random forest, gradient boosting, etc.) to construct algorithmic trading strategies that outperforms the benchmark
 - Developed a feature importance technique that dynamically selects an optimal set of features every quarter to optimize the profit of the strategy
 - Applied the optuna to automatically optimize the hyperparameters of the model to achieve better performance 
 
-## [4.2 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities](https://github.com/zhangyongheng78/Using-ML-to-Integrate-Technical-and-Fundamental-Analysis-to-Identify-Trading-Opportunities)
+### [4.2 Using Machine Learning Techniques to Integrate Technical and Fundamental Analysis to Identify Trading Opportunities](https://github.com/zhangyongheng78/Using-ML-to-Integrate-Technical-and-Fundamental-Analysis-to-Identify-Trading-Opportunities)
 - Generated quarterly and daily fundamental, technical, and macroeconomic features from SimFin and FRED
 - Built two types of predictive models that conduct fundamental analysis to make long-term predictions and perform technical analysis to make short-term predictions respectively
 - Applied clustering methods to identify stocks that have common financial conditions and
@@ -106,6 +106,6 @@ stock in the S&P 500 index, and explored how it foretells the ups and downs of s
 <p align = "center">Portfolio Cumulative Return (Quarter over Quarter Prediction)</p>
 
 ## Project 5: Data Analytics
-## 5.1 Principal Component Analysis (PCA) via Matrix Decomposition
+### 5.1 Principal Component Analysis (PCA) via Matrix Decomposition
 - Analyzed the demographic features of different countries and showed that the Principal Component Analysis can be useful for dimensionality reduction and outlier detection
 - Provided the mathematical background of Principal Component Analysis and proved that it can be obtained via Singular Value Decomposition of the centered data matrix
