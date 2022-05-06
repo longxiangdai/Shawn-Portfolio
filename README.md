@@ -4,7 +4,7 @@
 ### [1.1 Extended Kalman Filter (EKF)](https://github.com/longxiangdai/Shawn-Portfolio/blob/main/EKF/EKF.ipynb)
 - Developed a vacuum cleaning robot and estimate its position and orientation in a room in order to be more efficient and precise at vacuuming
 - Implemented an EKF to estimate the robot's trajectory based upon the control (forward distance and change in orientation) and measurement data from a sensor placed on the floor of the room that the robot is vacuuming
-- Visualized the robot's estimated (#red) and ground-truth (#green) trajectories
+- Visualized the estimated robot pose and the associated uncertainty in the form of a level-set ellipse (both in red), the ground-truth pose (in green), as well as the final errors along with the three-sigma error bars
 
 <p align="center">
 <img src="images/EKF%20robot%20localization.gif" width="400"/> <img src="images/EKF%20robot%20localization%20error.PNG" width="400"/>
