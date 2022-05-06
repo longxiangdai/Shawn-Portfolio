@@ -1,7 +1,7 @@
 # Shawn_Portfolio
 
 ## Project 1: Robotic Localization and Mapping
-### 1.1 Extended Kalman Filter (EKF)
+### [1.1 Extended Kalman Filter (EKF)] ()
 - Developed a vacuum cleaning robot and estimate its position and orientation in a room in order to be more efficient and precise at vacuuming
 - Implemented an EKF to estimate the robot's trajectory based upon the control (forward distance and change in orientation) and measurement data from a sensor placed on the floor of the room that the robot is vacuuming
 - Visualized the robot's estimated (#red) and ground-truth (#green) trajectories
