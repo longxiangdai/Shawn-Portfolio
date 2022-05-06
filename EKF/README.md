@@ -1,0 +1,2 @@
+# Extended Kalman Filter
+We are developing a new vacuum cleaning robot that will estimate its position and orientation in a room in order to be more efficient and precise at vacuuming. The robot's state *x_t = [x_t, y_t, \theta_t]^T*
